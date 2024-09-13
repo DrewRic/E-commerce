@@ -83,6 +83,6 @@ Sequelize
 PostgreSQL
 Insomnia Core (for testing API routes)
 
-#License
+# License
 
 This project is licensed under the MIT License.
